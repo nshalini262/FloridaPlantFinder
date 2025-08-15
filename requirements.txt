@@ -1,0 +1,11 @@
+phidata
+fpdf
+python-dotenv
+rich
+typer
+requests
+numpy
+qdrant-client
+groq
+fastembed
+pypdf
