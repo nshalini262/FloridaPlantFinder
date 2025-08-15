@@ -17,6 +17,7 @@ Workflow:
 5. Use LLM to frame responses and return back to user
 
 Example use cases:
+<img width="1016" height="996" alt="image" src="https://github.com/user-attachments/assets/8a71bef6-a88c-4bfa-9dcb-a452ee578c7e" />
 
 
 Future Scope:
